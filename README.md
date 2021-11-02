@@ -1,4 +1,4 @@
-### Ola, Eu sou o Matheus Protti 🧙
+### Olá, Eu sou o Matheus Protti 🧙
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-protti-8722661b1/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.protti/)
 
